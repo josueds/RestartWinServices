@@ -1,1 +1,1 @@
-# Restart windows services in batch file
+# Restart windows services in order (batch file)
